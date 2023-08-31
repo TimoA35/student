@@ -9,11 +9,9 @@ courses: { csse: {week: 1}, csp: {week: 1, categories: [4.A]}, csa: {week: 0} }
 categories: [C1.4]
 ---
 
-#
 
 ### General Knowldge Quiz
 
-<!DOCTYPE html>
 <html>
 <head>
     <title>Python Quiz</title>

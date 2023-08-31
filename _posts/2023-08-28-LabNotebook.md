@@ -17,8 +17,11 @@ Week 0
 
 Went to Github.com to make a new repository, clicked on settings, clicked on build and development under pages, forked nighthawkcoders/student, entered a subdomain, and pressed Enforce HTTPS. For my page, I use a local host. 
 
+2. Struggled with Python installation - when checking for python, I used the code “python –versioon” and it kept saying Python 2.7.4. 
 
-
+3. To install python 3, I used this webpage: https://realpython.com/installing-python/
+As well as https://www.codecademy.com/article/install-python3.
+Used pip3 install jupyterlab to install Jupyter Notebooks
 
 Week 1
 1. Tech Talk - talked about opening jupyter notebooks and the quiz at the bottom of the python hello section
@@ -55,11 +58,7 @@ else:
 
 
 Week 2
-1. Struggled with Python installation - when checking for python, I used the code “python –versioon” and it kept saying Python 2.7.4. 
 
-2. To install python 3, I used this webpage: https://realpython.com/installing-python/
-As well as https://www.codecademy.com/article/install-python3.
-Used pip3 install jupyterlab to install Jupyter Notebooks
+1. One issue I had was an error with "nav_home.html." Every time I hit make, it would take a while and pop up with an error. That's when I went up to Mr.Mortensin and asked for help, which he then used command f to find the problem.
 
-3. One issue I had was an error with "nav_home.html." Every time I hit make, it would take a while and pop up with an error. That's when I went up to Mr.Mortensin and asked for help, which he then used command f to find the problem.
-
+2. Added car prcies hack and figured out how to change the code so added a new car.
